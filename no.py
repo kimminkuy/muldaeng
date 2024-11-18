@@ -10,13 +10,6 @@
 
 # ## Install dependencies
 
-# In[1]:
-
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-
 # Install the tensorFlow to work on GPU for WSL2 Ubuntu 20.04 LTS (Focal Fossa) on Windows 11 Pro as follows described in the [TensorFlow documentation](https://www.tensorflow.org/install/pip#windows-wsl2).
 # 1. Install WSL2
 # 2. Install the NVIDIA drive
